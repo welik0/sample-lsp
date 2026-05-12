@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "Node16",
+		"target": "ES2024",
+		"outDir": "out",
+		"rootDir": "src",
+		"lib": ["ES2024", "DOM"],
+		"types": ["node"],
+		"sourceMap": true
+	},
+	"include": ["src"],
+	"exclude": ["node_modules"]
+}
